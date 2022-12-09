@@ -1,6 +1,6 @@
-### Baltimore Police Department - Female Marijuana Arrests Analysis
+# Baltimore Police Department - Female Marijuana Arrests Analysis
 
-# Map Analysis and Visualization of Female Arrests in Baltimore County for Possesion of Marijuana
+### Map Analysis and Visualization of Female Arrests in Baltimore County for Possesion of Marijuana
 
 Uses [Folium](https://python-visualization.github.io/folium/) and [Pandas](https://pandas.pydata.org/)
 
