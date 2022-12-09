@@ -5,5 +5,3 @@ Data taken from https://data.baltimorecity.gov/datasets/baltimore::bpd-arrests/e
 
 Date taken: Dec 4, 2022, 19:14
 
-I split the data into 4 separate CSV files to allow for easier access on Google Colab
-
